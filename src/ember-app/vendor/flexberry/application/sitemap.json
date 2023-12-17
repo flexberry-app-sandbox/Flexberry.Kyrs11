@@ -4,9 +4,9 @@
   "items": [
     {
       "link": null,
-      "menuName": "kyrs11",
-      "caption": "Kyrs11",
-      "title": "Kyrs11",
+      "menuName": "билеты",
+      "caption": "Билеты",
+      "title": "Билеты",
       "children": [
         {
           "link": "i-i-s-kyrs11-покуп-или-возв-б-l",
@@ -30,24 +30,39 @@
           "children": null
         },
         {
-          "link": "i-i-s-kyrs11-обслуживание-l",
+          "link": "i-i-s-kyrs11-билетная-касса-l",
           "menuName": null,
-          "caption": "Обслуживание",
-          "title": "",
+          "caption": "Билетная касса",
+          "title": "Билетная касса",
           "children": null
-        },
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "обслуживание",
+      "caption": "Обслуживание",
+      "title": "Обслуживание",
+      "children": [
         {
           "link": "i-i-s-kyrs11-билетная-касса-l",
           "menuName": null,
           "caption": "Билетная касса",
-          "title": "",
+          "title": "Билетная касса",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kyrs11-обслуживание-l",
+          "menuName": null,
+          "caption": "Обслуживание",
+          "title": "Обслуживание",
           "children": null
         },
         {
           "link": "i-i-s-kyrs11-оператор-l",
           "menuName": null,
           "caption": "Оператор",
-          "title": "",
+          "title": "Оператор",
           "children": null
         }
       ]

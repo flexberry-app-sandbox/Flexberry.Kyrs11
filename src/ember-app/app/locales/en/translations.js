@@ -100,6 +100,42 @@ $.extend(true, translations, {
           caption: 'Home',
           title: ''
         },
+        билеты: {
+          caption: 'Билеты',
+          title: 'Билеты',
+          'i-i-s-kyrs11-покуп-или-возв-б-l': {
+            caption: 'Покупка или возврат билета',
+            title: ''
+          },
+          'i-i-s-kyrs11-перевозчик1-l': {
+            caption: 'Перевозчик',
+            title: ''
+          },
+          'i-i-s-kyrs11-покупатель-l': {
+            caption: 'Покупатель',
+            title: ''
+          },
+          'i-i-s-kyrs11-билетная-касса-l': {
+            caption: 'Билетная касса',
+            title: 'Билетная касса'
+          }
+        },
+        обслуживание: {
+          caption: 'Обслуживание',
+          title: 'Обслуживание',
+          'i-i-s-kyrs11-билетная-касса-l': {
+            caption: 'Билетная касса',
+            title: 'Билетная касса'
+          },
+          'i-i-s-kyrs11-обслуживание-l': {
+            caption: 'Обслуживание',
+            title: 'Обслуживание'
+          },
+          'i-i-s-kyrs11-оператор-l': {
+            caption: 'Оператор',
+            title: 'Оператор'
+          }
+        },
         kyrs11: {
           caption: 'Kyrs11',
           title: 'Kyrs11',
